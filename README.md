@@ -1,10 +1,10 @@
 # Student Performance Analytics Dashboard
 
-#Project Overview
+## Project Overview
 This project is a comprehensive student analytics solution developed in Power BI to help educational institutions monitor student performance, identify at-risk students, and support data-driven decision making.
 The dashboard integrates attendance records, homework completion, topic mastery, and practice exam results to provide a holistic view of student progress.
 
-##Objectives
+## Objectives
 -Monitor student academic performance
 -Identify at-risk students
 -Track attendance and homework completion
@@ -12,14 +12,14 @@ The dashboard integrates attendance records, homework completion, topic mastery,
 -Predict future exam outcomes
 -Support intervention planning
 
-##Key Features
-###Student Performance Tracking
+## Key Features
+### Student Performance Tracking
 -Attendance monitoring
 -Homework completion analysis
 -Topic mastery evaluation
 -Practice exam trend analysis
 
-###Risk Assessment Model
+### Risk Assessment Model
 Students are classified based on:
 -Attendance Rate
 -Homework Completion Rate
@@ -32,7 +32,7 @@ Risk Categories:
 -High Risk
 -Critical Risk
 
-###Predictive Exam Score
+### Predictive Exam Score
 A weighted scoring model estimates future exam performance using:
 | Metric              | Weight |
 | ------------------- | ------ |
@@ -42,8 +42,8 @@ A weighted scoring model estimates future exam performance using:
 | Homework Completion | 15%    |
 | Improvement Trend   | 5%     |
 
-##Dashboard Pages
-###Academic Coordinator Overview
+## Dashboard Pages
+### Academic Coordinator Overview
 Provides a high-level summary of:
 -Total Students
 -Average Attendance, Homework Completion, Predicted Exam Score
@@ -51,7 +51,7 @@ Provides a high-level summary of:
 -Student at Risk
 -Overall Risk Distribution
 
-###Student Performance Overview
+### Student Performance Overview
 Includes:
 -Performance Trends
 -Attendance Analysis
@@ -61,18 +61,18 @@ Includes:
 -Risk Segmentation
 -Predicted Exam Score
 
-###Learning Journey & Progress Analysis
+### Learning Journey & Progress Analysis
 Focuses on:
 -Monthly Progress Trend
 -Predicted Score Model Weight
 
-##Tools Used
+## Tools Used
 -Power BI
 -DAX
 -Power Query
 -Excel
 
-##Dataset
+## Dataset
 The dataset was created for educational analytics portfolio purposes and contains:
 -Student demographics
 -Attendance records
@@ -83,6 +83,6 @@ The dataset was created for educational analytics portfolio purposes and contain
 
 **In this study, data standardization was applied to enable comparison of data from different programs and exam types.
 
-##Project Screenshots
+## Project Screenshots
 (Add dashboard screenshots here)
 
