@@ -84,5 +84,7 @@ The dataset was created for educational analytics portfolio purposes and contain
 **In this study, data standardization was applied to enable comparison of data from different programs and exam types.
 
 ## Project Screenshots
-(Add dashboard screenshots here)
+![Academic Coordinator Overview](Screenshots/01_Academic_Coordinator_Overview.png)
+![Student Performance Overview](Screenshots/02_Student_Performance_Overview.png)
+![Learning Journey & Progress Analysis](Screenshots/03_Learning_Journey_Progress_Analysis.png)
 
