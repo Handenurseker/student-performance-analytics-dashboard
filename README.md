@@ -95,7 +95,7 @@ The dataset was created for educational analytics portfolio purposes and contain
 - Practice exam results
 - Exam performance metrics
 
-**In this study, data standardization was applied to enable comparison of data from different programs and exam types.
+** In this study, data standardization was applied to enable comparison of data from different programs and exam types.
 
 ## Dashboard Page
 
