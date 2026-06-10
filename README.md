@@ -1,6 +1,6 @@
 # Student Performance Analytics Dashboard
 
-##Project Overview
+#Project Overview
 This project is a comprehensive student analytics solution developed in Power BI to help educational institutions monitor student performance, identify at-risk students, and support data-driven decision making.
 The dashboard integrates attendance records, homework completion, topic mastery, and practice exam results to provide a holistic view of student progress.
 
